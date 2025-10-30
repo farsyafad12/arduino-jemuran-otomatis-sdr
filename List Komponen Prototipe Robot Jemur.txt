@@ -1,0 +1,9 @@
+List Komponen Prototipe Robot Jemuran Otomatis :
+- Arduino Uno = 54000
+- Breadboard Mini = 4000
+- Motor Servo SG90s = 13500
+- Rain Sensor = 12000
+
+Estimasi Total Biaya : 90.000
+
+Judul Produk : IoT Project Prototipe Jemuran Otomatis Sederhana Menggunakan Arduino Uno / automatic clothesline Arduino
