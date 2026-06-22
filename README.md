@@ -100,19 +100,7 @@ void loop() {
 
 ---
 
-## 📸 Hasil Project
-
-_Cooming Soon !_
-
-<!-- 
-<img src="/image/1.jpeg" alt="Hasil Project 1" style="border-radius:18px;">
-<img src="/image/2.jpeg" alt="Hasil Project 2" style="border-radius:18px;">
-<img src="/image/3.jpeg" alt="Hasil Project 3" style="border-radius:18px;">
-<img src="/image/4.jpeg" alt="Hasil Project 4" style="border-radius:18px;">
--->
-
----
-## 🎥 Referensi Video ( Youtube ) 
+## 🎥 Referensi Video Demo ( Youtube ) 
 
 Kamu bisa lihat hasil demo serupa dengan project ini pada video berikut:
 
@@ -124,4 +112,4 @@ Kamu bisa lihat hasil demo serupa dengan project ini pada video berikut:
 
 ---
 
-_Powered By FarSyaFad Tech 2025 | All Right Reserved | Created By Ahnaf Samih_
+_Powered By FarSyaFad Tech 2026 | All Right Reserved | Created By Ahnaf Samih 🧑‍💻_
